@@ -1,10 +1,6 @@
-## Welcome to Anthony's Webpage
+## Welcome to Anthony Nieves' Webpage
 
-You can use the [editor on GitHub](https://github.com/Antniev/antniev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-I just wrote this.
+This is a webpage I created through github for my CSC course at UAT.
 
 ### Markdown
 
