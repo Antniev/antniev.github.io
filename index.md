@@ -4,4 +4,4 @@ This is a webpage I created through github for my CSC course at UAT. This is my 
 
 layout: page
 title: "page"
-permalink: 
+permalink: https://github.com/Antniev/New-Repository/blob/35e0c15dc9c4c4d8f4546e2f5658e5803ea27545/blastoff!.html
